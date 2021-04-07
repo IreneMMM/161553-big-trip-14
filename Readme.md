@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Ирина](https://up.htmlacademy.ru/ecmascript/14/user/161553).
-* Наставник: [Алексей Беляев](https://htmlacademy.ru/profile/id691043).
+* Наставник: [Артур Галимов](https://htmlacademy.ru/profile/id1237543).
 
 ---
 
